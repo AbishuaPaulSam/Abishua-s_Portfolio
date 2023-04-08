@@ -12,9 +12,16 @@ In this project, I have performed end to end Analysis on the Cricket World Cup T
 
 
 # [Project 2: RFM Analysis](https://github.com/AbishuaPaulSam/RFM-Analysis)
+In this project, I have performred RFM Analysis on e-commerce trnasaction Data and I have combined the RFM with K-means Predictive algorithm. 
+
+* The dataset used in this project were obtained from Kaggle.
+* The data was prepared and RFM Table was created.
+* RFM scores were applied to each customer and customers were segmented based on RFM Scores.
+* K-means algorithm was implemented.     
+
 
 # [Project 3: Sales Data Insights](https://github.com/AbishuaPaulSam/Sales-Data-Insights)
-In this project I have done a Sales Data Analysis and built a Dashboard to help a Business understand their sales performance and customers.
+In this project, I have done a Sales Data Analysis and built a Dashboard to help a Business understand their sales performance and customers.
 
 The goal of this project is to provide a business track the revenue numbers & Trends and help them track revenue breakdown by regions, products and markets. 
 
