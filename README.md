@@ -12,7 +12,7 @@ In this project, I have performed end to end Analysis on the Cricket World Cup T
 
 
 # [Project 2: RFM Analysis](https://github.com/AbishuaPaulSam/RFM-Analysis)
-In this project, I have performred RFM Analysis on e-commerce trnasaction Data and I have combined the RFM with K-means Predictive algorithm. 
+The objective of the project is to help online retail store in customer retention, revenue and identify potential, proﬁtable, and lost customers by segregating based on their purchase history.
 
 * The dataset used in this project were obtained from Kaggle.
 * The data was prepared and RFM Table was created.
