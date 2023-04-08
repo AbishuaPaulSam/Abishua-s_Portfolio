@@ -1,5 +1,4 @@
 # Abishua-s_Portfolio
-Analytics Portflio
 
 
 #[Cricket World Cup Data Analysis](https://github.com/AbishuaPaulSam/Cricket-World-Cup-Data-Analysis)
