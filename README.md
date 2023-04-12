@@ -35,7 +35,7 @@ track the sales of their products and help them get insights about their busines
 ## Certifications:
 [DAX Language](https://drive.google.com/file/d/1dEFrCJIXDGjEdONLTszU1zVYdGx_wz38/view?usp=share_link)
 
-## 🔗 Links to mhy Other Projects:
+## 🔗 Links to my Other Projects:
 [HR Data Analysis](https://github.com/AbishuaPaulSam/HR-Analytics)
 
 
