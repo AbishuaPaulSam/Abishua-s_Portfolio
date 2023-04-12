@@ -32,4 +32,14 @@ track the sales of their products and help them get insights about their busines
 * Data subsets were segregated to perform certain analysis.
 * Dashboard was built using Power BI. 
 
+## Certifications:
+[DAX Language](https://drive.google.com/file/d/1dEFrCJIXDGjEdONLTszU1zVYdGx_wz38/view?usp=share_link)
+
+## 🔗 Links to mhy Other Projects:
+[HR Data Analysis](https://github.com/AbishuaPaulSam/HR-Analytics)
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishua-paul-sam-38480a161/)
     
