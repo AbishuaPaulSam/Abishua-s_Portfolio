@@ -46,7 +46,10 @@ track the sales of their products and help them get insights about their busines
 
 ## Certifications:
 * SQL for Data Analysis
-* DAX Language
+* Become a Product Manager - Udemy
+* Agile Project Management: Agile, Scrum, Kanban & XP - Udemy
+
+
 
 ## 🔗 Links to my Other Projects:
 [HR Data Analysis](https://github.com/AbishuaPaulSam/HR-Analytics)
